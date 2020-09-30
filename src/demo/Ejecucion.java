@@ -14,6 +14,7 @@ public class Ejecucion {
 		System.out.print(x);
 		System.out.print(y);
 		System.out.print(z);
+		
 		System.out.print(q);
 		
 		System.out.print(m);
